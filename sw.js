@@ -1,5 +1,5 @@
-const BUILD_ID = "3a4b77c06d7f89cb09baa6ac7bbf770f41677a1fabdea60923293495c80e8613"
-const PRECACHE = ["assets/index-1jSgBANx.js","assets/index-nk6mUWqq.css","icons/reel-180.png","icons/reel-192.png","icons/reel-512.png","icons/reel-c-180.png","icons/reel-c-192.png","icons/reel-c-512.png","index.html","manifest.webmanifest"]
+const BUILD_ID = "81da080baabe29c39a5a0d459102b09f20206cc6b58a3000ddf1bceec880b59c"
+const PRECACHE = ["assets/index-CCI2UvAJ.js","assets/index-nk6mUWqq.css","icons/reel-180.png","icons/reel-192.png","icons/reel-512.png","icons/reel-c-180.png","icons/reel-c-192.png","icons/reel-c-512.png","index.html","manifest.webmanifest"]
 const prefix = 'line-winding:' + self.registration.scope + ':'
 const cacheName = prefix + BUILD_ID
 const shell = new URL('index.html', self.registration.scope).href
